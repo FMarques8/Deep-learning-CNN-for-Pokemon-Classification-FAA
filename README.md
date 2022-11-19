@@ -1,7 +1,8 @@
 # Deep-learning-CNN-for-Pokemon-Classification-FAA
 Using a somewhat deep CNN for Pokemon classification
 
-![]("C:\Users\franc\VSCode\FundAprendAuto\FAA-Project-1\images\Pikachu\00000001.png" "Pikachu waving")
+![00000001](https://user-images.githubusercontent.com/73106020/202851693-09b3110d-75a0-427a-813a-71b968d4eb08.png)
+
 
 #### 
 Developed and trained a Convolutional Neural Network for Pokemon image classification, as part of an assignment of a class. 
