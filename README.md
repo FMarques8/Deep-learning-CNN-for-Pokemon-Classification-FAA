@@ -11,8 +11,10 @@ Right now I'm thinking of increasing the dataset size by downloading other pokem
 
 I was shy on running this algorithm for long, and right now each epoch takes around 30 seconds to run. Running on my CPU - AMD Ryzen 7 5800H but I might try to make it so that the algorithm runs on the GPU - GeForce RTX 3050Ti.  
 
+Any questions or related feel free to contact me!
+
 ### Acknowledgements
-Huge thanks to Diogo Cardoso () for the help with this assignment. We spent many days trying to use algorithms from out class but ultimately had to transition to tensorflow.
+Huge thanks to Diogo Cardoso (dfoc) for the help with this assignment. We spent many days trying to use algorithms from out class but ultimately had to transition to tensorflow.
 
 
 ### Disclaimer 
