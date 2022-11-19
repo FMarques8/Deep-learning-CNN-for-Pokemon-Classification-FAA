@@ -1,6 +1,8 @@
 # Deep-learning-CNN-for-Pokemon-Classification-FAA
 Using a somewhat deep CNN for Pokemon classification
 
+<img title= src=""C:\Users\franc\VSCode\FundAprendAuto\FAA-Project-1\images\Pikachu\00000001.png"">
+
 #### 
 Developed and trained a Convolutional Neural Network for Pokemon image classification, as part of an assignment of a class. 
 The current datset being used can be found at https://www.kaggle.com/datasets/lantian773030/pokemonclassification
@@ -18,4 +20,4 @@ Huge thanks to Diogo Cardoso (dfoc) for the help with this assignment. We spent 
 
 
 ### Disclaimer 
-This network is based on the tensorflow Image Classification tutorial and was used only for this assignment purposes.
+This network is based on the tensorflow Image Classification tutorial and was used only for this assignment purposes. All of the images used belong in the dataset mentioned before.
